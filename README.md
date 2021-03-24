@@ -1,5 +1,7 @@
 # githuber
-A simple application built using React Native.
+React Native and Express project.
+
+## Installation
 
 
 https://play.google.com/store/apps/details?id=com.hadi.githuber
